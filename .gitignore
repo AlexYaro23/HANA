@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy type checking cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Logs and debug files
+*.log
+logs/
+
+# SQLite database files
+*.sqlite3
+*.db
+
+# macOS-specific files
+.DS_Store
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# JetBrains IDE settings
+.idea/
+
+# Sublime Text settings
+*.sublime-workspace
+
+pvkey.txt
